@@ -1,2 +1,2 @@
 # D-MARK
-Open Hardware for Your ARM
+Open Hardware for Your ARM! (OHYA!)
